@@ -1,3 +1,12 @@
+This is meant to have some mild changes to firefox, like Brave in the default search engine list, but maybe eventually something like kasm functionality for private browsing mode.
+
+I probably won't implement this
+
+
+
+
+
+
 An explanation of the Firefox Source Code Directory Structure and links to
 project pages with documentation can be found at:
 
